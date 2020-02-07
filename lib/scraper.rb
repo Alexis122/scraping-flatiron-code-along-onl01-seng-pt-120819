@@ -36,7 +36,7 @@ binding.pry
 
 end
   
-  
+  Scraper.new.print_courses
 
 
 
